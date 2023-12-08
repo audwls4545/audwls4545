@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Jung%20min's%20Github%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Myeong%20Jin's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
 <div align="center"> 
  
